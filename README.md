@@ -12,6 +12,8 @@ And I also showed u some concepts of pvc, pv, sc, secret box of kubernetes part 
 
 > In my first video I showed you how to create cluster and Elb with eks on aws cloud
 https://www.youtube.com/watch?v=MWlvEWAe63o&t=1201s
+
+
 >This is my second video on eks ---> I showed u multiple intrications of services to launch a whole architecture
 https://youtu.be/TN-bUB9Sa7M
 
